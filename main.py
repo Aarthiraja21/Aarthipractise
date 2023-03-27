@@ -7,3 +7,5 @@ print("new project")
 
 print("god is love")
 print("Adolf Hitler")
+print("New folder created")
+print("I hate you")
